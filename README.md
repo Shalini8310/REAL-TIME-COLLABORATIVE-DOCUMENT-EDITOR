@@ -1,27 +1,5 @@
-COMPANY: CODTECH IT SOLUTIONS
+# Vue 3 + Vite
 
-NAME: SHALINI M RAO
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-INTERN ID: CT04DY2814
-
-DOMAIN: FULL STACK DEVELOPMENT
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
-
-PROJECT DESCRIPTION
-
-A real-time web application that allows multiple users to edit and collaborate on the same document simultaneously. Built using React.js (Vite) for the frontend and Node.js + Express.js + Socket.IO for the backend to enable live updates and seamless communication..
-
-🔹 Tech Stack
-
-Frontend: React.js, Vite
-
-Backend: Node.js, Express.js, Socket.IO
-
-Tools: VS Code, Git, GitHub
-
-OUTPUT:
-
-<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/a32505df-658e-41ff-82ab-d7ec4bb9bef0" />
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
