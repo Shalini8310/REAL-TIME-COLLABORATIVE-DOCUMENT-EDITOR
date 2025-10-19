@@ -1,8 +1,13 @@
 Internship: CodTech IT Solutions
+
 Intern ID: CT04DY2814
+
 Name: Shalini M Rao
+
 Domain: Full Stack Development
+
 Duration: 4 Weeks
+
 Mentor: Neela Santosh
 
 🔹 Description
