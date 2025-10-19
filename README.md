@@ -1,4 +1,4 @@
-#COMPANY: CODTECH IT SOLUTIONS
+COMPANY: CODTECH IT SOLUTIONS
 
 NAME: SHALINI M RAO
 
@@ -22,6 +22,6 @@ Backend: Node.js, Express.js, Socket.IO
 
 Tools: VS Code, Git, GitHub
 
-OUTPUT
+OUTPUT:
 
 <img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/a32505df-658e-41ff-82ab-d7ec4bb9bef0" />
