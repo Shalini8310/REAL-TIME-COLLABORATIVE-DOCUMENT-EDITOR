@@ -25,5 +25,3 @@ Tools: VS Code, Git, GitHub
 OUTPUT:
 
 <img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/6f68838f-45fe-4a24-95f6-83eab90babd6" />
-
-
