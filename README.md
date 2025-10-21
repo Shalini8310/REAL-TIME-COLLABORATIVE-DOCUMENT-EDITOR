@@ -22,6 +22,5 @@ Backend: Node.js, Express.js, Socket.IO
 
 Tools: VS Code, Git, GitHub
 
-OUTPUT:
 
-<!-- Uploading "Real-Time Document Editor - Profile 1 - Microsoft​ Edge 10_19_2025 8_37_23 PM.png"... -->
+
